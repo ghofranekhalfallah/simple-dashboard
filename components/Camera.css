@@ -1,0 +1,39 @@
+video {
+    border-left:50px ;
+    border: 2px solid rgb(110, 113, 161);
+    box-shadow: 4px 4px 3px rgb(116, 145, 150);
+    width:500px;
+    height:340px;
+  }
+canvas {
+    display:grid;
+}
+
+button {
+    display:block;
+    position:center;
+    margin-left:100px;
+    margin-right:1px;
+    bottom:10px;
+    padding:10px 50px ;
+}
+
+  .btn {
+    background: #28be62;
+    color: rgb(252, 252, 252);
+    border-radius: 5px;
+    box-shadow: 0 0 6px #0da827,
+                 0 0 30px #39ce72,
+                0 0 5px #1fc519,
+                 0 0 100px #ffffff;
+}
+
+
+.result{
+    bottom:40px;
+    height: 225px;
+    width: 75%;
+    box-shadow: 11px 12px 13px 12px rgb(140, 135, 190);
+    padding-top: 30px;
+    border-radius: 30px;  
+}
